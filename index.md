@@ -8,7 +8,7 @@
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
 <img src="images/Youtube_tutorial.jpg?raw=true"/>
 
-[Introduction to machine learning with scikit-learn](https://khaychuk.github.io/scikit-learn-videos/)
+[DataSchool: Introduction to machine learning with scikit-learn](https://khaychuk.github.io/scikit-learn-videos/)
 <img src="images/data_school.jpg?raw=true"/>
 
 ---
