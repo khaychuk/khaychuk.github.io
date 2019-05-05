@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Youtube_tutorial.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
