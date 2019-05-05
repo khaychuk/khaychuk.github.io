@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
+[Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
 <img src="images/Youtube_tutorial.jpg?raw=true"/>
 
 ---
