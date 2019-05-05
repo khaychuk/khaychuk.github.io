@@ -1,6 +1,6 @@
 ## Portfolio
 
-#Heading 1 link [Heading link](https://github.com/khaychuk/khaychuk.github.io/blob/master/sample_page.md "Heading link")
+#Heading 1 link [Heading link](master/sample_page.md "Heading link")
 
 
 
