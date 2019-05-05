@@ -7,6 +7,9 @@
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
 <img src="images/Youtube_tutorial.jpg?raw=true"/>
 
+[Project 2 Title](https://khaychuk.github.io/scikit-learn-videos/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
