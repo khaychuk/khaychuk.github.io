@@ -6,7 +6,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'GA_MEASUREMENT_ID');
+  gtag('config', 'UA-139577212-1');
 </script>
 ---
 
