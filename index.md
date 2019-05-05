@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
+[Project 1 Title](/pycon-2016-tutorial-youtube/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
