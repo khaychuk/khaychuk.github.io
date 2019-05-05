@@ -9,7 +9,7 @@
 <img src="images/Youtube_tutorial.jpg?raw=true"/>
 
 [Introduction to machine learning with scikit-learn](https://khaychuk.github.io/scikit-learn-videos/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/data_school.jpg?raw=true"/>
 
 ---
 ### Project from my khaychuk.github.io folder, provide path
