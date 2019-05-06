@@ -1,0 +1,6 @@
+[submodule "About2"]
+	path = About2
+	url = https://github.com/cpang4/cpang4.github.io.git
+[submodule "About3"]
+	path = About3
+	url = git@github.com:khaychuk/About.git
