@@ -1,7 +1,3 @@
-## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
-*** 
-## [About me](https://khaychuk.github.io/About/ "About")
-*** 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139577212-1"></script>
 <script>
@@ -11,8 +7,12 @@
 
   gtag('config', 'UA-139577212-1');
 </script>
----
 
+*** 
+## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
+*** 
+## [About me](https://khaychuk.github.io/About/ "About")
+*** 
 ### Category Name 1 
 ### Project from my github, change settings to "master" and copy new link
 
