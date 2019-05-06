@@ -1,6 +1,6 @@
 ## Portfolio
 
-#Heading 1 link [Heading link](https:/khaychuk.github.io/Projects/ "Heading link")
+#Heading 1 link [Heading link](https://khaychuk.github.io/Projects/ "My Projects")
 
 
 
