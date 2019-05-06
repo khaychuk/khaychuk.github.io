@@ -1,5 +1,3 @@
-## Portfolio
-
 ## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
 *** 
 ## [About me](https://khaychuk.github.io/About/ "About")
