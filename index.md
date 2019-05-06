@@ -1,7 +1,7 @@
 ## Portfolio
 
 ##My projects [My projects](https://khaychuk.github.io/Projects/ "My Projects")
-***
+** *** **
 ##About me [About me](https://khaychuk.github.io/About/ "About")
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
