@@ -9,7 +9,7 @@
 </script>
 ## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
 *** 
-## [About me](https://khaychuk.github.io/About/ "About")
+## [About me](https://khaychuk.github.io/page_template/ "About")
 *** 
 
 ### Machine Learning
