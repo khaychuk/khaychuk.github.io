@@ -3,7 +3,7 @@
 ## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
 *** 
 ## [About me](https://khaychuk.github.io/About/ "About")
-
+*** 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139577212-1"></script>
 <script>
