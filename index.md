@@ -34,8 +34,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Knowledge is power
-[Project 3 Title](/sample_page.md)
-<img src="images/research.jpg?raw=true"/>
+[My reading](/sample_page.md)
+<img src="images/Research.jpg?raw=true"/>
 ---
 
 ### Probability and Statistics
