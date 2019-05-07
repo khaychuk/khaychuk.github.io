@@ -4,7 +4,10 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
   <br><br>
-
+  ## [My projects](https://khaychuk.github.io/page_template/ "My Projects")
+  *** 
+  ## [About me](https://khaychuk.github.io/page_template/ "About")
+  *** 
   <br><br>
   <a href="https://www.linkedin.com/in/victoria-khaychuk-b273ba3b/">View My LinkedIn Profile</a> 
   
