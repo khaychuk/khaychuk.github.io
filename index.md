@@ -7,11 +7,6 @@
 
   gtag('config', 'UA-139577212-1');
 </script>
-## [My projects](https://khaychuk.github.io/page_template/ "My Projects")
-*** 
-## [About me](https://khaychuk.github.io/page_template/ "About")
-*** 
-
 ### Machine Learning
 
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
