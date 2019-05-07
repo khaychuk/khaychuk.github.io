@@ -30,8 +30,8 @@
 
 ### MySQL
 ---
-[Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Python MySQL connect](http://example.com/)
+<img src="images/sql.jpg?raw=true"/>
 
 ### Knowledge is power
 [My reading](/sample_page.md)
