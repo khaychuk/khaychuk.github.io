@@ -39,7 +39,6 @@
 [Statistical Data Analysis in Python](https://khaychuk.github.io/Statistical-analysis-python-tutorial/.)
 <img src="images/stats.jpg?raw=true"/>
 ---
-
 ### Algorithms
 ---
 [Python algorithms everyone should know](https://khaychuk.github.io/Python_algorithm/)
