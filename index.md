@@ -22,8 +22,8 @@
 
 ---
 ### Data Visualization
-[Project 3 Title](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Python Matplotlib and Seaborn data visualization](/sample_page.md)
+<img src="images/visual.jpg?raw=true"/>
 
 
 
