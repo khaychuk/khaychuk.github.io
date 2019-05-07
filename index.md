@@ -40,6 +40,6 @@
 
 ### Algorithms
 [Python algorithms everyone should know](https://khaychuk.github.io/Python_algorithm/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/algorithms.jpg?raw=true"/>
 ---
 
