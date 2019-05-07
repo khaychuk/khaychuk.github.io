@@ -33,15 +33,18 @@
 ### Knowledge is power
 [My reading](/sample_page.md)
 <img src="images/Research.jpg?raw=true"/>
+
 ---
 
 ### Probability and Statistics
 [Statistical Data Analysis in Python](https://khaychuk.github.io/Statistical-analysis-python-tutorial/.)
 <img src="images/stats.jpg?raw=true"/>
+
 ---
 ### Algorithms
----
+
 [Python algorithms everyone should know](https://khaychuk.github.io/Python_algorithm/)
 <img src="images/algorithms.jpg?raw=true"/>
+
 ---
 
