@@ -15,7 +15,7 @@
 ### Machine Learning
 
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
-<img src="images/Youtube_tutorial.jpg?raw=true"/>
+<img src="images/scikit_tutorial.jpg?raw=true"/>
 
 [DataSchool: Introduction to machine learning with scikit-learn](https://khaychuk.github.io/scikit-learn-videos/)
 <img src="images/dataschool.jpg?raw=true"/>
