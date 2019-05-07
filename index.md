@@ -8,7 +8,7 @@
   gtag('config', 'UA-139577212-1');
 </script>
 ### Machine Learning
-[Python Matplotlib and Seaborn data visualization](/05-Numpy Exercises - Solutions.ipynb)
+[Python Matplotlib and Seaborn data visualization](https://nbviewer.jupyter.org/github/khaychuk/khaychuk.github.io/blob/master/05-Numpy%20Exercises%20-%20Solutions.ipynb)
 <img src="images/visual.jpeg?raw=true"/>
 
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
