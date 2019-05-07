@@ -25,9 +25,6 @@
 [Python Matplotlib and Seaborn data visualization](/sample_page.md)
 <img src="images/visual.jpeg?raw=true"/>
 
-
-
-
 ### MySQL
 ---
 [Python MySQL connect](http://example.com/)
