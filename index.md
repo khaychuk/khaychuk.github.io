@@ -37,7 +37,7 @@
 ### Knowledge is power
 ---
 [Reading](/sample_page2.md)
-<img src="images/research.jpg?raw=true"/>
+<img src="images/Research.jpg?raw=true"/>
 
 
 ### Probability and Statistics
