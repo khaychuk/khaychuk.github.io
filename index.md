@@ -39,7 +39,7 @@
 ---
 
 ### Probability and Statistics
-[Project 5 Title](https://khaychuk.github.io/Statistical-analysis-python-tutorial/.)
+[Statistical Data Analysis in Python](https://khaychuk.github.io/Statistical-analysis-python-tutorial/.)
 <img src="images/stats.jpg?raw=true"/>
 ---
 
