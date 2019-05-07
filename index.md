@@ -18,7 +18,7 @@
 <img src="images/Youtube_tutorial.jpg?raw=true"/>
 
 [DataSchool: Introduction to machine learning with scikit-learn](https://khaychuk.github.io/scikit-learn-videos/)
-<img src="images/data_school.jpg?raw=true"/>
+<img src="images/dataschool.jpg?raw=true"/>
 
 ---
 ### Data Visualization
