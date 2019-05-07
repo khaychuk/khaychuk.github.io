@@ -36,7 +36,7 @@
 
 ### Knowledge is power
 ---
-[Reading](/sample_page2)
+[Reading](/sample_page.md)
 <img src="images/Research.jpg?raw=true"/>
 
 
