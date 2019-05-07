@@ -25,12 +25,19 @@
 [Project 3 Title](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+
+
 ### MySQL
 ---
 [Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
+### Knowledge is power
+---
+[Reading](/sample_page2.md)
+<img src="images/reading.jpg?raw=true"/>
 
 
 ### Probability and Statistics
