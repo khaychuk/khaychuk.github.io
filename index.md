@@ -39,6 +39,7 @@
 ---
 
 ### Algorithms
+---
 [Python algorithms everyone should know](https://khaychuk.github.io/Python_algorithm/)
 <img src="images/algorithms.jpg?raw=true"/>
 ---
