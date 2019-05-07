@@ -30,8 +30,16 @@
 [Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+
+
 ### Probability and Statistics
 [Project 5 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+### Algorithms
+[Python algorithms everyone should know](https://khaychuk.github.io/Python_algorithm/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
