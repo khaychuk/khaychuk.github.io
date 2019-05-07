@@ -7,7 +7,7 @@
 
   gtag('config', 'UA-139577212-1');
 </script>
-## [My projects](https://khaychuk.github.io/Projects/ "My Projects")
+## [My projects](https://khaychuk.github.io/page_template/ "My Projects")
 *** 
 ## [About me](https://khaychuk.github.io/page_template/ "About")
 *** 
