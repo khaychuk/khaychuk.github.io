@@ -22,7 +22,7 @@
 
 ---
 ### Data Visualization
-[Project 3 Title](/pdf/sample_presentation.pdf)
+[Project 3 Title](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### MySQL
