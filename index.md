@@ -23,7 +23,7 @@
 ---
 ### Data Visualization
 [Python Matplotlib and Seaborn data visualization](/sample_page.md)
-<img src="images/visual.jpg?raw=true"/>
+<img src="images/visual.jpeg?raw=true"/>
 
 
 
