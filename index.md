@@ -39,8 +39,8 @@
 ---
 
 ### Probability and Statistics
-[Project 5 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 5 Title](https://khaychuk.github.io/Statistical-analysis-python-tutorial/.)
+<img src="images/stats.jpg?raw=true"/>
 ---
 
 ### Algorithms
