@@ -8,8 +8,8 @@
   gtag('config', 'UA-139577212-1');
 </script>
 ### Machine Learning
-
-[Jupyter notebook](/05-Numpy Exercises - Solutions.ipynb)<img src="images/scikit_tutorial.jpg?raw=true"/>
+[Python Matplotlib and Seaborn data visualization](/05-Numpy Exercises - Solutions.ipynb)
+<img src="images/visual.jpeg?raw=true"/>
 
 [Tutorial: Machine Learning with Text in scikit-learn](https://khaychuk.github.io/pycon-2016-tutorial-youtube/)
 <img src="images/scikit_tutorial.jpg?raw=true"/>
